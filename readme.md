@@ -1,6 +1,6 @@
-# Quaternion Mathematics Toolbox
+# QuatViz Toolbox
 
-Quaternion Mathematics Toolbox is an interactive web application developed with Streamlit, designed to simplify quaternion operations and provide a visual representation of their orientations. Quaternions are powerful mathematical entities used in 3D rotations and computer graphics.
+QuatViz is an interactive web application developed with Streamlit, designed to simplify quaternion operations and provide a visual representation of their orientations. Quaternions are powerful mathematical entities used in 3D rotations and computer graphics.
 
 ![App Screenshot](images/quatviz.png) <!-- Consider adding a screenshot of your app for better illustration. -->
 
