@@ -29,7 +29,7 @@ Quaternion Mathematics Toolbox is an interactive web application developed with 
 
 4. **Run the Streamlit App**
     ```bash
-    streamlit run streamlit_app.py
+    streamlit run quatviz_app.py
     ```
 
 ## Contribute
