@@ -1,7 +1,7 @@
 # streamlit_app.py
 import streamlit as st
 import numpy as np
-from quaternion_module import Quaternion
+from quaternion import Quaternion
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d.art3d import Poly3DCollection
 
