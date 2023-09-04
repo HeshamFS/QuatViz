@@ -59,7 +59,7 @@ def plot_three_quaternions(q1, q2, result):
     return fig
 
 def main():
-    st.title("Quaternion Mathematics Toolbox")
+    st.title("QuatViz Toolbox")
 
     # Get user input
     q1_input = st.text_input("Quaternion 1 (w, x, y, z):", "1, 0, 0, 0")
